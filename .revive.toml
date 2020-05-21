@@ -1,0 +1,2 @@
+# empty-block warns on empty code blocks.
+[rule.empty-block]
